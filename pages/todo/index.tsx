@@ -1,7 +1,8 @@
 import React from "react";
+import { TodoApp } from "../../src/todo";
 
 const index = () => {
-  return <div>index</div>;
+  return <TodoApp />;
 };
 
 export default index;
